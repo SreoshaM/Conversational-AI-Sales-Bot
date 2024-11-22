@@ -1,0 +1,10 @@
+Flask
+pandas
+numpy
+elevenlabs
+openai
+langchain
+scipy
+sounddevice
+wavio
+python-dotenv
